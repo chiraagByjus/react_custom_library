@@ -1,6 +1,10 @@
 {
   "name": "react-storybook",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiraagByjus/react_custom_library"
+  },
   "dependencies": {
     "@chakra-ui/react": "^2.3.5",
     "@emotion/react": "^11.10.4",
