@@ -1,7 +1,6 @@
 {
   "name": "react-storybook",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.3.5",
     "@emotion/react": "^11.10.4",
@@ -74,5 +73,9 @@
     "@semantic-release/github",
     "@semantic-release/npm",
     "@semantic-release/git"
-  ]
+  ],
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js"
 }
